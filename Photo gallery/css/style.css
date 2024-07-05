@@ -1,0 +1,16 @@
+.image1,.image2,.image3, img{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    
+
+}
+.body{
+    margin: 60px 10px 10px 400px;
+    height: 1000px;
+}
+h1{
+    text-align: center;
+    margin-right: 440px;
+}
